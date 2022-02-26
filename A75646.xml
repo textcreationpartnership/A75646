@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles for the surrender of Colchester and all the ordnance, armes and ammunition. With a letter of submission from the Earle of Norwich, the Lord Capell. &amp;c. to his Excellency the Lord Fairfax. Also the taking of the whole party of the Scottish horse which fled with Duke Hamilton to Utcester in Staffordshire, by the Lord Grey and Major Generall Lambert, with the Particulars thereof, viz. Taken Duke Hamilton. 17. lords. 7. colonells. 3. lieutenant-coloness. 20. captains. 100. other officers. 20. colours. 3500. prisoners. 3500. horses. 6. waggons of the dukes laden witb treasure, with his George, rich skarfe, and good store of other booty.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75646</idno>
+            <idno type="STC">Wing A3826</idno>
+            <idno type="STC">Thomason E461_18</idno>
+            <idno type="EEBO-CITATION">50805834</idno>
+            <idno type="OCLC">ocm 50805834</idno>
+            <idno type="VID">162173</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75646)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162173)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E461[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles for the surrender of Colchester and all the ordnance, armes and ammunition. With a letter of submission from the Earle of Norwich, the Lord Capell. &amp;c. to his Excellency the Lord Fairfax. Also the taking of the whole party of the Scottish horse which fled with Duke Hamilton to Utcester in Staffordshire, by the Lord Grey and Major Generall Lambert, with the Particulars thereof, viz. Taken Duke Hamilton. 17. lords. 7. colonells. 3. lieutenant-coloness. 20. captains. 100. other officers. 20. colours. 3500. prisoners. 3500. horses. 6. waggons of the dukes laden witb treasure, with his George, rich skarfe, and good store of other booty.</title>
+                  <author>Norwich, George Goring, Earl of, 1583?-1663.</author>
+                  <author>Capel of Hadham, Arthur Capel, Baron, 1610?-1649.</author>
+                  <author>Lucas, Charles, Sir, 1613-1648.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.A.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162173:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 90 -->
+            <p>ARTICLES FOR THE Surrender of Colcheſter AND <hi>All the Ordnance, Arms and Ammunition.</hi>
+            </p>
+            <p>With a Letter of Submiſsion from the Earle of <hi>Norwich,</hi> the Lord <hi>Capell,</hi> &amp;c. to his Excellency the Lord <hi>Fairfax.</hi>
+            </p>
+            <p>ALSO The taking of the whole Party of the Scottiſh Horſe which fled with Duke <hi>Hamilton</hi> to Utceſter in Staf<g ref="char:EOLhyphen"/>fordſhire, by the Lord <hi>Grey</hi> and Major Generall <hi>Lambert,</hi> with the particulars thereof, <hi>viz.</hi>
+            </p>
+            <list>
+               <head>TAKEN</head>
+               <item>Duke <hi>Hamilton.</hi>
+               </item>
+               <item>17. Lords.</item>
+               <item>7. Colonells.</item>
+               <item>3. Lievtenant-Colonells.</item>
+               <item>20. Captains.</item>
+               <item>100. other Officers.</item>
+               <item>20. Colours.</item>
+               <item>3500. Priſoners.</item>
+               <item>3500. Horſe.</item>
+               <item>6. Waggons of the Dukes laden with treaſure, with his George, rich Skarfe, and good ſtore of other Booty.</item>
+            </list>
+            <p>Printed for <hi>R. A.</hi> 1648. <add>Aug y<hi rend="sup">e</hi> 27<hi rend="sup">th</hi>
+               </add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162173:2"/>
+            <!-- PDF PAGE 91 -->
+            <pb n="1" facs="tcp:162173:2"/>
+            <!-- PDF PAGE 91 -->
+            <head>The Earle of <hi>Norwich,</hi> Lord <hi>Capell,</hi> and Sir <hi>Charles Lucas</hi> their letter of Submiſſion to his Excellency the Lord <hi>Fairfax.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>HAving hitherto acted the duty of Soul<g ref="char:EOLhyphen"/>diers and Gentlemen, we muſt ac<g ref="char:EOLhyphen"/>knowledge the truth of what is intimated by your Lordſhip, that there is a great alte<g ref="char:EOLhyphen"/>ration between our conditions and yours ſince the firſt overture of a treaty, wherefore according to your Lordſhips admiſsion, we have ſent Sir WILLIAM COMPTON, Sir ABRAHAM SHIPMAN, Colonell HAMOND, Colonell TUKE, and Colo<g ref="char:EOLhyphen"/>nell AYLOFF, to treat and conclude upon the circumſtances neceſſary for the clearing, and orderly performance of that which your Lordſhip by your laſt hath offred, we bei<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb facs="tcp:162173:3"/>
+               <!-- PDF PAGE 92 -->reſolved to commit our ſelves your Lord<g ref="char:EOLhyphen"/>ſhips priſoners,</p>
+            <closer>
+               <dateline>Colcheſter <date>Aug. 27. 1648.</date>
+               </dateline>
+               <signed>Your ſervants,
+<list>
+                     <item>Norwich.</item>
+                     <item>Arthur Capell.</item>
+                     <item>Charles Lucas.</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>According to your Lordſhips deſire, we have ſent you the Committee.</p>
+            </postscript>
+            <trailer>For the Lord FAIRFAX.</trailer>
+         </div>
+         <div type="letter">
+            <head>A letter, with the Articles for the ſur<g ref="char:EOLhyphen"/>render of the town of <hi>Colcheſter</hi> to his Excellency the Lord <hi>Fairfax</hi> on the 28. of Auguſt 1648.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>ALthough the Earle of <hi>Norwich,</hi> the Lord <hi>Capell,</hi> Sir <hi>Charles Lu<g ref="char:EOLhyphen"/>cas</hi> and the reſt of the Officers in Col<g ref="char:EOLhyphen"/>cheſter at the concluding ſo long a Siege, had the height of ſpirit to de<g ref="char:EOLhyphen"/>mand very high conditions on Friday and Saturday, yet as breathing their laſt in this their deſperate condition,
+<pb facs="tcp:162173:3"/>
+               <!-- PDF PAGE 92 -->they now condeſcend to lower termes then was once offered them, for when our Army came firſt againſt the town the Lord-General tendred conditions not onely very good to the private ſouldiers, but that all Officers under the degree of a Captaine, ſhould have liberty to march away; but ſince they have ſhewed ſo much obſtinacy ſuch conditions were refuſed to be given them, they have now ſubmitted to ſorrender the ſaid town with all the Forts, Ordnance, &amp;c. to his Excellen<g ref="char:EOLhyphen"/>cy the L. Gen. <hi>Fairfax,</hi> and ſuch as he ſhall appoint upon cerraine Articles: the heads of which do here follow.</p>
+            <list>
+               <item>
+                  <hi>Jmprimis, That the E. of</hi> Norwich, <hi>the L.</hi> Goring, <hi>the L.</hi> Capell, <hi>the Lord</hi> Loughborough, <hi>Sir</hi> Charles Lucas, <hi>Colonell</hi> Lunsford, <hi>and the reſt of the Commanders and Officers in the ſaid town of Colcheſter above the degree of a
+<pb facs="tcp:162173:4"/>
+                     <!-- PDF PAGE 93 -->Corporall ſhall on Munday at</hi> 4. <hi>of the clocke in the afternoon being the</hi> 28. <hi>of this instant Auguſt, become priſoners of war at mercy to his Excellency the Lord</hi> Fairfax.</item>
+               <item>2. <hi>That all the Ordnance, Arms, and Ammunition in the ſaid Towne ſhall be delivered up to ſuch as his Excellency ſhall appoint to receive the ſame at the time aforeſaid, except ſuch ſingle Armes as the private ſouldiers march a mile out of town with, where they are to lay down their Arms and receive paſſes to go to their homes, with an ingagement to ſub<g ref="char:EOLhyphen"/>mit to Ordinances of Parliament.</hi>
+               </item>
+               <item>3. <hi>That the Committee-men and ſuch Officers and Souldiers as they had in the Town of the Parliaments party ſhould be ſet at libertie without any further pre<g ref="char:EOLhyphen"/>judice to their perſons.</hi>
+               </item>
+               <item>4. <hi>That the Jnhabitants of the town ſhould be freed from plunder &amp; violence.</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:162173:4"/>
+                  <!-- PDF PAGE 93 -->
+5. <hi>That Hoſtages be delivered for the performance of the Articles, and the Lord</hi> Fairfax <hi>his men are to march into the Town as the others march out.</hi>
+               </item>
+            </list>
+            <p>In the town are above tweenty pieces of Ordnance, five thouſand arms, and ammunition; thus bleſſed be God, you ſee how it hath pleaſed GodJto diſperſe thoſe many clouds of danger which hung over the heads of the Parliament, and whole Kingdome; for what day hath paſſed for ſix or ſeven daies together, that hath not produced intelligence of ſome extraor<g ref="char:EOLhyphen"/>dinary ſucceſſe? as to inſtance ſome of them, firſt, the regaining of Tinmouth Caſtle after the Governour had revolted. Secondly, the routing of the Prince his for<g ref="char:EOLhyphen"/>ces landed neer Deale by Col. <hi>Rich.</hi> Thirdly, the ta<g ref="char:EOLhyphen"/>king of Sir <hi>Henry Lingen,</hi> &amp; diſſipating all his ſtrength which would ere this have ſwelled into a great body, if they had not been diſperſed in the nick of time. Fourthly, that moſt eminent &amp; remarkable victory obtained by Lievt. Gen. <hi>Cromwell.</hi> Fifthly, the taking of this towne of Colcheſter, whoſe ſtanding out thus long was the glory (or rather matter of boaſt) of the malignant partie. Laſtly, the ta<g ref="char:EOLhyphen"/>king of Duke <hi>Hamilton</hi> &amp; 3000. &amp; 500. horſe &amp; arms by Ma<g ref="char:EOLhyphen"/>jor-Gen. <hi>Lambert,</hi> and the L. <hi>Grey,</hi> the particulars whereof are further ſet down in this inſuing Letter,</p>
+            <closer>
+               <dateline>From the Leaguer, <date>Aug. 28. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Can now give you a full account of the utter o<g ref="char:EOLhyphen"/>verthrow of that part of the Scots Army which fled Southwards, with Duke <hi>Hamilton,</hi> which were at their marching over Cheſter above four thouſand, and beſide what the County had gleaned of them in their march to Utceſter, they were not leſſe then
+<pb facs="tcp:162173:5"/>
+               <!-- PDF PAGE 94 -->3500. which being ſurrounded by the County on Thurſday laſt, came up the Lord <hi>Grey</hi> of <hi>Groby</hi> and Major Generall <hi>Lambert,</hi> they beſet the towne, the Duke ſued for conditions (having put himſelfe into the protection of the Maior of the ſaid towne of Ut<g ref="char:EOLhyphen"/>ceſter) but his condition ſuited not to granting of his deſires; So the Lord <hi>Grey</hi> with his Leiceſterſhire horſe, and Major Generall <hi>Lambert</hi> with the forces he brought with him out of the North (all well mounted and as reſolved as any,) fell in upon the Scots at both ends of the towne, and at their firſt approach gave fire at ſome diſtance, which the Scots anſwered not but by ſubmiſſion, yeilding themſelves priſoners, Colonell <hi>Wait</hi> a Member of the Houſe of Commons had the honour to take the Duke him<g ref="char:EOLhyphen"/>ſelfe priſoner, and had his ſword and skarfe; The Lord of <hi>Traquaire</hi> and his Sonne, as alſo Sir <hi>Marma<g ref="char:EOLhyphen"/>duke Langdale</hi> and eight other Commanders were formerly taken, &amp; we hear that 17. of the Scots Lords are taken ſince they were routed. And at this time (beſides the Duke) was taken 7. Colonells divers Lords, about 3. Lieutenant Colonells, 20. Captaines 100. other Officers about 20. Collours 3500. horſe and as many priſoners, their horſe were exceedingly tired, and the riders (for the moſt part very poor fel<g ref="char:EOLhyphen"/>lowes) having little money or cloathes except what they got ſince they came into England, neither had their Commanders much money about them, or in their portmantles: ſix of the Dukes Waggons, in which was thought to be their onely treaſure were taken by the County before they came to Utceſter; The Duke is in the cuſtody of the Lord <hi>Grey,</hi> the Colonells, other Officers ond private Souldiers car<g ref="char:EOLhyphen"/>ried ſome to Leiceſter, ſome to Nottingham, and o<g ref="char:EOLhyphen"/>ther places for ſafety. 300. of them are brought to this towne.</p>
+            <closer>
+               <dateline>Stafford <date>26. Auguſt 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
